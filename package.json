@@ -1,0 +1,13 @@
+{
+  "name": "renovate-changelog1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/viceice-tests/renovate-changelog1.git",
+  "author": "Michael Kriese <michael.kriese@visualon.de>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "4.15.2",
+    "@typescript-eslint/parser": "4.15.2"
+  }
+}
